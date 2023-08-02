@@ -22,7 +22,7 @@ Course Title: CETM46 – Data Science Product Development: A Domain Specific Dat
 ## Description
 **Project Overview:**
 
-It is particularly challenging for online pet stores, where customers need to manually search for the right products for their pets based on their breed. The problem also concerns pet owners who struggle to find the right products for their pets. However, pet store owners want to provide a more personalized shopping experience for their customers. Identifying the breed of pets from their images is one of the problems this report will address with the developed data science product. 
+It is particularly challenging for online pet stores, where customers need to manually search for the right products for their pets based on their breed. The problem also concerns pet owners who struggle to find the right products for their pets. However, pet store owners want to provide a more personalized shopping experience for their customers. Identifying the breed of pets from their images is one of the problems this application will address with the developed data science product. 
 Before the product development began, the first step was to design a Gantt chart that showed the different processes and stages of the development to enable me keep track of the time frame of the product which was stipulated to be a two (2) months project. It was updated regularly until all the stages of the product were completed. In the end the Gantt chart was very useful in making sure the project finished by the end of the stipulated time.
 The task is broken down into two major stages: 
 1.	Model Development: Developed an optimized machine learning model that can accurately identify the breed of pets from their images. 
